@@ -1,0 +1,62 @@
+body{
+    margin: 25px;
+    background-color: rgb(160, 160, 154);
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+#nickname, #email{
+    text-align: center;
+    text-orientation: sideways;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+#email{
+    font-family: sans-serif;
+    font-style: normal;
+}
+
+.h_line{
+    border: 2px solid gray;
+}
+
+table{
+    border-radius: 2px;
+    border-width: 2px;
+    border-collapse: collapse;
+    text-align: center;
+    width: 25%;
+}
+
+h2{
+    color: rgb(8, 110, 110);
+}
+
+a{
+    text-decoration: none;
+}
+
+.lan{
+    border: 1px solid rgb(19, 19, 19);
+    border-radius: 8px;
+    padding-left: 9px;
+    background-color: rgb(165, 173, 188);
+    position: static;
+    padding: 3px 20px 3px 3px;
+}
+
+.pad{
+    padding-left: 150px;
+    font-size: 20px;
+}
+
+.link{
+    text-align: center;
+}
+
