@@ -59,4 +59,7 @@ a{
 .link{
     text-align: center;
 }
+td{
+    padding-left: 8px;
+}
 
