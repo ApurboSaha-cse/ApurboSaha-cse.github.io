@@ -34,7 +34,7 @@ table{
     width: 25%;
 }
 td{
-    padding-left: 8px;
+    text-align: left;
 }
 
 h2{
